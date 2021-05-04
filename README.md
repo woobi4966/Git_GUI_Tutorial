@@ -8,6 +8,7 @@
 - pull
 - branch
 - conflict!!!!!!!!!
+- meld
 ## I made a NEW BRANCH!!!!
 # learn MERGE>
 hahahahahaahahahahahhahaha  
