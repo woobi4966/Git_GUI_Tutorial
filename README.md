@@ -7,4 +7,5 @@
 - fetch
 - pull
 - branch
+- conflict!!!!!!!!!
 ## I made a NEW BRANCH!!!!
