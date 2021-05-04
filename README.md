@@ -7,6 +7,7 @@
 - fetch
 - pull
 - branch
+ - checkout
 ## I made a NEW BRANCH!!!!
 # learn MERGE>
 hahahahahaahahahahahhahaha  
