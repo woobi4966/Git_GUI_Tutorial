@@ -7,8 +7,8 @@
 - fetch
 - pull
 - branch
-- conflict!!!!!!!!!
-- meld
+- conflict!!!!!!!!! : meld
+ - checkout
 ## I made a NEW BRANCH!!!!
 # learn MERGE>
 hahahahahaahahahahahhahaha  
