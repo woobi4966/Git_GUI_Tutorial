@@ -9,8 +9,4 @@
 - branch
 - conflict!!!!!!!!! : meld
  - checkout
- - edit from github
-## I made a NEW BRANCH!!!!
-# learn MERGE>
-hahahahahaahahahahahhahaha  
-Shooting please.  
+ - rebase
